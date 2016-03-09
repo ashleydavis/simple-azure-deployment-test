@@ -1,7 +1,9 @@
 
 # Simple Azure deployment test
 
-These are some instructions on how to deploy this very simple web page to Azure. 
+This repo is very simple and only contains an index.html. This is all that is needed to deploy the most simplest Azure Web App. 
+
+The remainder of this readme provides instructions on how to deploy this very simple web page to Azure. 
 
 ## Create an empty Azure Web App 
 
