@@ -7,7 +7,7 @@ The remainder of this readme provides instructions on how to deploy this very si
 
 ## Create an empty Azure Web App 
 
-This assume you are using the new Azure portal.
+This assumes that you are using the new Azure portal.
 
 - Logged into the Azure portal and go to the main page.
 - Click *New*.
